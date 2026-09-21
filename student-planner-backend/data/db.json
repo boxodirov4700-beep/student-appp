@@ -1,0 +1,33 @@
+{
+  "users": [
+    {
+      "id": 1789538964898,
+      "name": "Abdulaziz ",
+      "username": "abu",
+      "password": "2009"
+    }
+  ],
+  "tasks": [
+    {
+      "id": 1789539068209,
+      "title": "to do",
+      "subject": "inglz tili",
+      "date": "2026-09-16",
+      "priority": "High",
+      "completed": false,
+      "userId": 1789538964898
+    }
+  ],
+  "subjects": [],
+  "schedules": [],
+  "exams": [
+    {
+      "id": 1789539239003,
+      "subject": "inglz tili ",
+      "date": "2026-10-12",
+      "time": "02:00",
+      "userId": 1789538964898
+    }
+  ],
+  "notes": []
+}
